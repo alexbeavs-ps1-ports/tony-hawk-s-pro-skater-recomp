@@ -42,6 +42,7 @@ window_title = "Tony Hawks Pro Skater Recompiled"
 memcard_dir = "saves"
 bios_hle = false
 openbios = false
+overlay_cache = true
 
 [video]
 renderer = "opengl"
