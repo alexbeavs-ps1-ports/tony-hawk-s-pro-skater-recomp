@@ -59,7 +59,7 @@ You must own the original game. Disc images under `disc/` are gitignored and
 must never be committed. Retail BIOS dumps are not redistributed. This title
 requires a legal SCPH-1001 BIOS dump. OpenBIOS is not a qualified route.
 
-Project-owned files use `GPL-3.0-only`. This license does not cover psxrecomp,
+Project-owned files use `PolyForm Noncommercial 1.0.0`. This license does not cover psxrecomp,
 recomp-ui, game data, generated retail code, artwork, names, or trademarks.
 See `THIRD_PARTY_NOTICES.md` for the separate dependency licenses.
 
